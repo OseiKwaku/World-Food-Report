@@ -33,7 +33,9 @@ This project analyzes global food data to uncover trends, disparities, and patte
 
 ### Key Insights
  • China Mainland leads the world in countries with the highest production quantity of 27bn and c followed by Brazil with 24bn.
+
  • Results showed a forecast that production quantity in 2032 could rise to 0.74bn that’s 7.4 million. 
+
  • Asia leads the continents of the world that has the highest production quantity.
 
 ### Recommendations
