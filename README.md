@@ -18,7 +18,7 @@ This project analyzes global food data to uncover trends, disparities, and patte
 
 ### Data Cleaning/Preparation
 1. Data Collection:
-   - Compiled datasets from FAO sources into a unified structure
+   - Compiled datasets from FAO sources into a unified structure.
 
 2. Data Cleaning:
    - Handled missing values using appropriate imputation methods.
