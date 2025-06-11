@@ -21,10 +21,10 @@ This project analyzes global food data to uncover trends, disparities, and patte
    - Compiled datasets from FAO sources into a unified structure
 
 2. Data Cleaning:
-   - Handled missing values using appropriate imputation methods
-   - Standardized country names across datasets
-   - Converted all measurements to consistent units
-   - Removed duplicate entries
+   - Handled missing values using appropriate imputation methods.
+   - Standardized country names across datasets.
+   - Converted all measurements to consistent units.
+   - Removed duplicate entries.
 
 3. Data Modeling:
    - Established relationships between fact and dimension tables.
