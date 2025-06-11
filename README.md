@@ -27,9 +27,9 @@ This project analyzes global food data to uncover trends, disparities, and patte
    - Removed duplicate entries
 
 3. Data Modeling:
-   - Established relationships between fact and dimension tables
-   - Created measures using DAX for advanced calculations
-   - Implemented star schema for optimal performance
+   - Established relationships between fact and dimension tables.
+   - Created measures using DAX for advanced calculations.
+   - Implemented star schema for optimal performance.
 
 ### Key Insights
  • China Mainland leads the world in countries with the highest production quantity of 27bn and c followed by Brazil with 24bn.
